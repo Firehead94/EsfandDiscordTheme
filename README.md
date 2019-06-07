@@ -1,7 +1,7 @@
 # Esfand Discord Theme
 Esfand Theme for Discord
 
-Esfand is a squared compact & minimalist theme for Discord
+EsfandTV Theme is for Esfans and Esfriends alike.
 
 ## Demo 
 ![Demo](https://i.imgur.com/HLtVWQA.png)
