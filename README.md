@@ -18,6 +18,8 @@ EsfandTV Theme is for Esfans and Esfriends alike.
 7. Rename it to style.css
 8. Launch Discord
 
+If you would like the darker channel pane delete line 22 in the new 'style.css' and save.
+
 # Changelog
 
 ### Version 1.0
