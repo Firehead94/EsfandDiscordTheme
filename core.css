@@ -3,7 +3,7 @@
 /* theme settings */
 :root {
     /* background for the entire window. Almost everything is transparent to this image. */
-    --bg-overlay: rgba(0, 0, 0, 0.5); /* overlay for the background. Generally, this should darken the picture to make text more readable. */
+    --bg-overlay: rgba(100, 100, 100, 0.1); /* overlay for the background. Generally, this should darken the picture to make text more readable. */
     --accent-color: #900; /* color of buttons, misc. text, etc. */
     --mention-color: #f00; /* color of mention text */
     --mention-bg: rgba(255, 0, 0, 0.15); /* mention background color */
@@ -19,14 +19,15 @@
 }
 
 .container-PNkimc {
-	background: #2f3136;
+	/*background: #2f3136;*/
+	background-color:rgba(255,255,255,0.1);
 }
 
 
 body::before{
 	background:transparent;
 	background:  url(https://i.imgur.com/Dqedq3N.png), transparent;
-	PADDING-left: 240px;
+	padding-left: 240px;
 	position: absolute;
 	content: '';
 	height: 100%;
