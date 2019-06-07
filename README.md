@@ -4,7 +4,7 @@ Esfand Theme for Discord
 EsfandTV Theme is for Esfans and Esfriends alike.
 
 ## Demo 
-![Demo](https://i.imgur.com/HLtVWQA.png)
+![Demo](https://i.imgur.com/Z7cgBWq.png)
 
 # Installation
 1. Download and install https://enhanceddiscord.com/
