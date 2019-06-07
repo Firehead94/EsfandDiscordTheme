@@ -7,11 +7,16 @@ Esfand is a squared compact & minimalist theme for Discord
 ![Demo](https://i.imgur.com/HLtVWQA.png)
 
 # Installation
-1. Download the theme `esfand.theme.css`
-2. open the themes folder `Discord -> Settings -> Themes -> Open themes folder`
-3. Place your theme in this folder (must be named like this : `name.theme.css`)
-4. Reload Discord using `Ctrl+R` (or `Command+R`)
-5. Go to `Discord -> Settings -> Themes` and turn on your theme
+1. Download and install https://enhanceddiscord.com/
+1.a Note that when you download the installer, copy and save the file to %appdata%
+1.b Have discord running when you install it, after installing you may need to restart discord.
+2. open the themes folder `%appdata%/EnhancedDiscord/plugins`
+3. Exit Discord
+4. Delete the file 'style.css'
+5. Download the theme `esfand.theme.css`
+6. Copy the file to `%appdata%/EnhancedDiscord/plugins`
+7. Rename it to style.css
+8. Launch Discord
 
 # Changelog
 
