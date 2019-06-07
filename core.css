@@ -1,0 +1,69 @@
+@import url(https://enhanceddiscord.com/theme.css);
+
+/* theme settings */
+:root {
+    /* background for the entire window. Almost everything is transparent to this image. */
+    --bg-overlay: rgba(0, 0, 0, 0.5); /* overlay for the background. Generally, this should darken the picture to make text more readable. */
+    --accent-color: #900; /* color of buttons, misc. text, etc. */
+    --mention-color: #f00; /* color of mention text */
+    --mention-bg: rgba(255, 0, 0, 0.15); /* mention background color */
+    --mention-bgh: rgba(255, 0, 0, 0.4); /* mention backgroung while hovering over it */
+    --link-color: #faa61a; /* color of all links */
+    --link-color-hover: #fad61a; /* color of all links while hovering over them */
+    --tag-color: #fff; /* text color of tags (bot tags and custom) */
+    --tag-bg: rgba(255, 0, 0, 0.3); /* background of tags (bot tags and custom) */
+    --popup-background: #222; /* background of modals, confirmation messages etc. */
+    --popup-highlight: #333; /* color of headers and footers of "popouts" (linked to above) */
+    --context-menu-bg: #333; /* color of context (right-click) menus. */
+    --unread-color: #f00; /* color of unread/selected server indicators. */
+}
+
+body::before{
+	background-image: url(https://i.imgur.com/Dqedq3N.png);
+	position: absolute;
+	content: '';
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	pointer-events: none;
+}
+
+.numberBadge-2s8kKX, .base-PmTxvP {
+	border-radius: 10px;
+}
+
+.embedPill-1Zntps {
+    width: 5px;
+}
+
+.theme-dark .card-7JP0BX, .theme-dark .header-1RC2Wb, .theme-dark .card-7JP0BX:hover .header-1RC2Wb, .carousel-tQMSVK, .carousel-2WxMes, .theme-dark .outer-2IVh5n, .theme-dark .empty-hejAOj, .theme-dark .recentlyPlayedContainer-2F3MqS, .paginationItem-3-iI7C, .theme-dark .separator-1N1EBC, .theme-dark .multipleIconWrapper-2TXVB4, .theme-dark .section-3TvauS, .theme-dark .tile-QA_yMc, .theme-dark .unwrapped-37iUtM.clickable-nnkAZy:hover, .theme-dark .wrapped-15rg6t {
+	background-color:rgba(255,255,255,0.05);
+}
+
+.embed-IeVjo6 {
+	background-color: rgba(0, 0, 0, 1) !important;
+    border: 0px !important;
+    padding: 0px 0px !important;
+    -webkit-transition: 200ms cubic-bezier(.2, .11, 0, 1);
+    transition: 200ms cubic-bezier(.2, .11, 0, 1) !important;
+    box-shadow: 0px 0px 0px #0c0c0c !important;
+    border-radius:5px;
+}
+
+.bannerImage-1jOskm {
+	height: 135px;
+	width: 240px;
+	position:absolute;
+	background-position:50%;
+	background-size:cover;
+}
+
+.wrapper-3WhCwL {
+  background:#f00;
+  color:#f00 !important;
+  border-radius:3px;
+}
+
+
