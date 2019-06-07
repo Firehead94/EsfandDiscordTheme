@@ -8,10 +8,8 @@ EsfandTV Theme is for Esfans and Esfriends alike.
 
 # Installation
 1. Download and install https://enhanceddiscord.com/
-
-1.1 Note that when you download the installer, copy and save the file to %appdata%
-
-1.2 Have discord running when you install it, after installing you may need to restart discord.
+- Note that when you download the installer, copy and save the file to %appdata%
+- Have discord running when you install it, after installing you may need to restart discord.
 2. open the themes folder `%appdata%/EnhancedDiscord/plugins`
 3. Exit Discord
 4. Delete the file 'style.css'
