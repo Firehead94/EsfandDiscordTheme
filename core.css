@@ -18,15 +18,22 @@
     --unread-color: #f00; /* color of unread/selected server indicators. */
 }
 
+.container-PNkimc {
+	background: #2f3136;
+}
+
+
 body::before{
-	background-image: url(https://i.imgur.com/Dqedq3N.png);
+	background:transparent;
+	background:  url(https://i.imgur.com/Dqedq3N.png), transparent;
+	PADDING-left: 240px;
 	position: absolute;
 	content: '';
 	height: 100%;
 	width: 100%;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: center;
+	background-position: center center;
 	pointer-events: none;
 }
 
@@ -65,5 +72,4 @@ body::before{
   color:#f00 !important;
   border-radius:3px;
 }
-
 
