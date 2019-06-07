@@ -67,6 +67,11 @@ body::before{
     border-radius:5px;
 }
 
+.theme-dark .inner-zqa7da {
+	background-color:rgba(255,255,255,0.1);
+	boarder-radius:10px;
+}
+
 .bannerImage-1jOskm {
 	height: 135px;
 	width: 240px;
